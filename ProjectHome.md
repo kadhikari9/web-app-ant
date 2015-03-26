@@ -1,0 +1,1 @@
+This simple project demonstrates writing ant scripts. It shows how to write build & deploy scripts using ant. It is simple web application that is using ant for building war and deploying to tomcat
